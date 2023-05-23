@@ -3,8 +3,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0Lira&count_private=true&show_icons=true&theme=tokyonight"/>
 </a>
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Lira&theme=tokyonight&layout=compact"/>-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Lira&theme=tokyonight&layout=compact"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,4 +23,3 @@
   <a href = "mailto:ptklira122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrick-lira-62a946226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<!--![Snake animation](https://github.com/0Lira/0Lira/blob/output/github-contribution-grid-snake.svg)-->
