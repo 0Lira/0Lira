@@ -1,10 +1,10 @@
 ### 👋 Olá meu nome é Patrick Lira, e sou Desenvolvedor Front-End!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0Lira&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0Lira&count_private=true&show_icons=true&theme=holi"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Lira&theme=tokyonight&layout=compact"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Lira&theme=holi&layout=compact"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
